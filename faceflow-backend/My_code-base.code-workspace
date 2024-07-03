@@ -1,0 +1,58 @@
+{
+    "folders": [
+		{
+			"path": "../python_files"
+		},
+		{
+			"path": "../test"
+		},
+		{
+			"path": "../alx-higher_level_programming"
+		},
+		{
+			"path": "../alx-low_level_programming"
+		},
+		{
+			"path": "../alx-system_engineering-devops"
+		},
+		{
+			"path": "../CS50"
+		},
+		{
+			"path": "../CS50P"
+		},
+		{
+			"path": "../head_first"
+		},
+		{
+			"path": "../Networking"
+		},
+		{
+			"path": "../AirBnB_clone_v2"
+		},
+		{
+			"path": "../alx_cheats"
+		},
+		{
+			"path": "../AirBnB_clone_v3"
+		},
+		{
+			"path": "../Python_machine-learning"
+		},
+		{
+			"path": "../AirBnB_clone_v4"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../PytonFlask"
+		},
+		{
+			"path": "../../HTML&CSS"
+		},
+		{
+			"path": "../../flow"
+		}
+	]
+}
